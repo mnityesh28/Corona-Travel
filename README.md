@@ -27,3 +27,8 @@ Quarantine Suits so that the Corona Index of that city will not be counted towar
 Now Being a Government Official, you have been assigned a duty to calculate the sum of indexes of an
 individual through the shortest route he/she has travelled and compare the figures with Government
 provided Figures and tell the individual to take necessary actions.
+# Output:
+You need to print what measures need to be taken while an individual travels to each city from City 1 to
+City 2,3 upto N for each city.
+(Remember: We need to provide answer for each destination city separately i.e we have L offers for every
+city and not as a whole)
