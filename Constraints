@@ -1,0 +1,10 @@
+# Constraints:
+1<=N<=10^5,
+1<=U,V<=N,
+0<=CI<=100,
+1<=L<=18
+Government imposed Corona Index for a individual:
+If Corona Index found is:
+0<=CI<=10: Safe
+11<=CI<=20: Quarantine for 14 days
+21<=CI<=100: Quarantine for 28 Days
